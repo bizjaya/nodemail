@@ -5,6 +5,7 @@ install docker, then run docker compose to run dependencies
 ```
 docker compose up -d --build
 docker ps -a
+
 ```
 
 To Run MainAPI/PRoducer:
